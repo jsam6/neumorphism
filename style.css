@@ -1,0 +1,15 @@
+body {
+    background-color: #3B3B3B;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  
+.box {
+    width:30%;
+    height:30%;
+    padding: 1em;
+    border-radius: 25px;
+    box-shadow: 12px 12px 12px 0 rgba(0, 0, 0, 0.5),  
+        -12px -12px 12px 0  rgba(255,255,255, 0.5);
+}
